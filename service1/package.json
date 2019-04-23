@@ -1,0 +1,21 @@
+{
+  "name": "gcloud-getting-start",
+  "version": "1.0.0",
+  "description": "google-cloud-getting-started",
+  "main": "app.js",
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google-cloud-platform"
+  ],
+  "author": "Gopal Saini",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
